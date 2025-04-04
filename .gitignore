@@ -1,0 +1,5 @@
+mobile-listing-backend/node_modules/.bin/mkdirp
+mobile-listing-backend/node_modules/.bin/mkdirp.cmd
+mobile-listing-backend/node_modules/.bin/mkdirp.ps1
+mobile-listing-backend/node_modules
+mobile-listing-backend/uploads
